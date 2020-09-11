@@ -1,2 +1,2 @@
 # dotfiles
-@afk does dotfiles
+@timwattenberg does dotfiles
